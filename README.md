@@ -17,6 +17,7 @@ following libraries, I have used:
 - pandas
 - seaborn
 - sklearn
+  
 [LinkIdin Link]
 https://www.linkedin.com/posts/bakhtawar-shaikh-704a4a1b3_codsoft-datascience-datascienceinternship-activity-7103753121016799233-ZaCb?utm_source=share&utm_medium=member_desktop
 
@@ -29,7 +30,8 @@ Machine learning Model
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------following libraries used:
 - pandas
 - seaborn
-- sklearn
+- sklearn'
+  
 [LinkIdin Link]
 https://www.linkedin.com/posts/bakhtawar-shaikh-704a4a1b3_codsoft-datascience-datascienceinternship-activity-7104015108602757121-R2_W?utm_source=share&utm_medium=member_desktop
 
@@ -45,6 +47,7 @@ Libraries:
 - matplotlib
 - seaborn
 - sklearn
+  
 [LinkIdin Link]
 https://www.linkedin.com/posts/bakhtawar-shaikh-704a4a1b3_codsoft-datascienceinternship-datascience-activity-7104742767989301248-ni7z?utm_source=share&utm_medium=member_desktop
 
